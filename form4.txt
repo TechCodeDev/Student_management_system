@@ -1,0 +1,11 @@
+101|PUNEETH|N|Ise|1cg15is038|7892952673|puneethn038@gmail.com|tumkur|#
+102|BHAGYA|K|CS|PUTTARANGAMMA|8904716176|bhagya@gmail.com|SIRA|#
+103|sathish|k|CS|PUTTARANGAMMA|9164936967|sathishkpbls@gmail.com|sira|#
+104|anusha|N|CS|ggg|9164936967|fffc@gmail.com|sira|#
+105|kavya|n|cs|gggg|9743181901|bhagya@gmail.com|sira|#
+106|ashok|b|ghgh|vcg|89494398348|a@gmail.com|sira|#
+107|Latha|k|cs|puttarangamma|9164936967s|l@gmail.com|sira|#
+108|lakshmi|n g|cs|l|8904716176|lk@gmail.com|sira|#
+109|ruchitha|a k|cs|r|8904716176|r@gmail.com|sira|#
+110|venki|k g|cs|v|90028296642|v@gmail.com|sira|#
+

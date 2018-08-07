@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="style1.css">
+    <link rel="stylesheet" type="text/css" href="style2.css">
+    <link rel="stylesheet" type="text/css" href="style3.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+</head>
+<style>
+    /* The container */
+    .container1 {
+        display: block;
+        position: relative;
+        padding-left: 35px;
+        margin-bottom: 12px;
+        cursor: pointer;
+        font-size: 22px;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+    
+    /* Hide the browser's default checkbox */
+    .container1 input {
+        position: absolute;
+        opacity: 0;
+        cursor: pointer;
+    }
+    
+    /* Create a custom checkbox */
+    .checkmark {
+        position: absolute;
+        top: 0;
+        left: 297px;
+        height: 25px;
+        width: 25px;
+        background-color: #eee;
+    }
+    
+    /* On mouse-over, add a grey background color */
+    .container1:hover input ~ .checkmark {
+        background-color: #ccc;
+    }
+    
+    /* When the checkbox is checked, add a blue background */
+    .container1 input:checked ~ .checkmark {
+        background-color: #45a049;
+    }
+    
+    /* Create the checkmark/indicator (hidden when not checked) */
+    .checkmark:after {
+        content: "";
+        position: absolute;
+        display: none;
+    }
+    
+    /* Show the checkmark when checked */
+    .container1 input:checked ~ .checkmark:after {
+        display: block;
+    }
+    
+    /* Style the checkmark/indicator */
+    .container1 .checkmark:after {
+        left: 9px;
+        top: 5px;
+        width: 5px;
+        height: 10px;
+        border: solid white;
+        border-width: 0 3px 3px 0;
+        -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        transform: rotate(45deg);
+    }
+    </style>
+<body>
+<center>
+  <h2>
+  <div class="heading">Student Management System</div>
+  </h2>
+</center>
+
+<ul>
+  <li><a class="active" href="index.html">Home</a></li>
+  <li><a href="login.php">Adminstraction</a></li>
+  <!--<li><a href="#contact">Contact</a></li>-->
+  <li><a href="INDEXNEXT.html"><--Back</a></li>
+  <li style="float:right"><a href="contact.html">About</a></li>
+</ul>
+<center ><h3  >LIBRARY FORM</h3></center>
+<div class="container">
+  <form action="form4.php">
+
+    <p>
+      <div class="row">
+          
+          <div class="col-25">
+              <label for="fname">Application-number:</label>
+          </div>
+          
+          <div class="col-75">
+              <input type="text"  name="Application" placeholder="like:integer" required>
+          </div>
+      
+        </div>
+    </p>
+
+    <div class="row">
+      <div class="col-25">
+        <label for="fname">First Name:</label>
+      </div>
+      <div class="col-75">
+        <input type="text" id="fname" name="firstname" placeholder="Your name.." required>
+      </div>
+    </div>
+
+    
+    <div class="row">
+      <div class="col-25">
+        <label for="lname">Last Name:</label>
+      </div>
+      <div class="col-75">
+        <input type="text" id="lname" name="lastname" placeholder="Your last name.." required>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-25">
+        <label for="mother">BRANCH:</label>
+      </div>
+      <div class="col-75">
+        <input type="text" id="mother" name="branch" placeholder="like:savithramma" required>
+      </div>
+    </div>
+    
+    <div class="row">
+              <div class="col-25">
+                <label for="mother">USN:</label>
+              </div>
+              <div class="col-75">
+                <input type="text" id="mother" name="usn" placeholder="like:savithramma" required>
+              </div>
+            </div>
+            
+    <div class="row">
+      <div class="col-25">
+    <label for="category">Phone-number:</label>
+      </div>
+      <div class="col-75">
+    <input type="text" id="mother" name="PhoneNumber" placeholder="Phone-number" required>
+    </div>
+        </div>
+
+<div class="row">
+    <div class="col-25">
+      <label for="category">Gmail:</label>
+    </div>
+    <div class="col-75">
+      <input type="text" id="gmail" name="gmail" placeholder="gmail" required>
+    </div>
+  </div>
+
+
+  <div class="row">
+    <div class="col-25">
+      <label for="category">Address:</label>
+    </div>
+    <div class="col-75">
+      <input type="text" id="gmail" name="radress" placeholder="Write something.." required>
+    </div>
+  </div>
+
+
+
+
+  
+
+  <!--
+
+    <div class="row">
+      <div class="col-25">
+        <label for="subject">Address:</label>
+      </div>
+      <div class="col-75">
+        <textarea id="subject" name="radress" placeholder="Write something.." style="height:200px" required></textarea>
+      </div>
+    </div>
+
+    <h3>Which section of the library would you like ...?</h3>
+<label class="container1">All
+  <input type="checkbox" checked="checked">
+  <span class="checkmark"></span>
+</label>
+<label class="container1">Magazines
+  <input type="checkbox">
+  <span class="checkmark"></span>
+</label>
+<label class="container1">Friction
+  <input type="checkbox">
+  <span class="checkmark"></span>
+</label>
+
+<label class="container1">Non-Friction
+  <input type="checkbox">
+  <span class="checkmark"></span>
+</label>
+
+<label class="container1">Rise And References
+    <input type="checkbox">
+    <span class="checkmark"></span>
+  </label>-->
+
+  
+</div>
+   
+    <div class="row">
+        
+      <input type="submit" value="Submit">
+        
+    </div>
+   
+  </form>
+
+
+
+
+
+</body>
+</html>

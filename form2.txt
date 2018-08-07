@@ -1,0 +1,12 @@
+101|PUNEETH|N|14/03/1998|7892952673|puneethn038@gmail.co|tumkur|#
+105|kavya|n|27/5/1990|9743181901|bhagya@gmail.com|sira|#
+102|sathish|k|16/03/2000|9164936967|sathishkpbls@gmail.com|sira|#
+103|Bhagya|k|22/10/1996|8904716176|bhagya@gmail.com|sira|#
+104|anusha|n|30/7/1994|9164936967|bhagya@gmail.com|sira|#
+106|ashok|b|1/1/1980|89494398348|a@gmail.com|sira|#
+107|Latha|k|18/07/1999|9164936967s|l@gmail.com|sira|#
+108|lakshmi|n g|1/1/1980|8904716176|lk@gmail.com|sira|#
+109|ruchitha|a k|6/1/2013|8904716176|r@gmail.com|sira|#
+110|venki|k g|1/11/2001|90028296642|v@gmail.com|sira|#
+
+$$|anusha|n|15/16/2017|277327327872|anusha@gmail.com|d/o puneeth sheetyhalli gate tumkur-572102|#

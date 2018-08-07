@@ -1,0 +1,16 @@
+101|PUNEETH|N|14/03/1998|NAGARAJU|SAVITRRAMMA|7892952673|3B|INDIAN|SIRA|TUMKUR|#
+102|Bhagya|K|22/10/1996|KARIYAPPA|PUTTARANGAMMA|8904716176|3A|INDIAN|SIRA|SIRA|#
+103|sathish|k|16/03/2000|kariyappa|puttarangamma|9164936967|3a|INDIAN|sira|sira|#
+104|anusha|N|30/7/1994|nagaraju|savithramma|9164936967|3a|Indian|sira|sira|#
+105|kavya|n|27/5/1990|nagaraju|savithramma|97|3a|INDIAN|sira|sira|#
+106|ashok|b|1/1/1980|bheemanna|ghgh|89494398348|3A|Indian|sira|sira|#
+107|Latha|k|18/07/1999|kariyappa|puttarangamma|9164936967s|3A|INDIAN|sira|sira|#
+108|lakshmi|n g|1/1/1980|n|n|8904716176|3A|Indian|sira|sira|#
+109|ruchitha|a k|6/1/2013|ashok|lakshmi|8904716176|3a|Indian|sira|sira|#
+110|venki|k g|1/11/2001|g|g|90028296642|3A|Indian|sira|sira|#
+111|venki|k g|1/11/2001|g|g|90028296642|3A|Indian|sira|sira|#
+112|raj|kumar|15/03/1998|raja|jaya|7829581642|3B|pakisthan|tumkur|tumkur|#
+113|kumar|k|17/09/1999|jhonsan|amina|5858588598954|5B|pakisthan|ISLAMABAD|PUNJAB|#
+114|ashok|k|16/03/2000|beemana|puttarangamma|33223|3B|INDIAN|sira|tiptur|#
+$$|anusha|n|15/06/2017|puneeth|chandana|39983298329|4b|indian|tumkur|tumkur|#
+$$|sharath|b|29/11/1998|bhagavanthaiah|kamala|8884$$853|3a|indian|tumkur|tumkur|#
